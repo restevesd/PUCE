@@ -5,10 +5,10 @@ library(udpipe)
 
 
 ## store api keys (these are fake example values; replace with your own keys)
-consumer_key = 'UjYQZT9P9vdYq6OzEFPsqSLQB'
-consumer_secret = 'LWKnd023OSmb6kfTbDd5zPjo4P0LcQodvg1wRf7LynWCgOH8Nb'
-access_token = '384431766-SdZnMYaETCYPiI6NyogMtZSEZq95dAYqZyDNkWhU'
-access_secret = '5GD2CpP3Bt3ZvsCjiMV0LvkNnh5oBiJiEeJNW9lzdQ38o'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 ## authenticate via web browser
 token <- create_token(
